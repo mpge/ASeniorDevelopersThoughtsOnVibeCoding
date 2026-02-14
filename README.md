@@ -7,8 +7,6 @@ Today at work, I was writing a feature with regard to CSV imports. While I can't
 
 What came up next was something that surprised even me upon review.
 
-// Import CSV
-$userId = Auth::id();
 
 ```
 foreach ($rows as $row) {
