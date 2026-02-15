@@ -60,9 +60,9 @@ I have seen far too many apps launched, and dismantled within hours. Heck, I've 
 
 Don't be that guy or gal.
 
-I like to think of the AI as a junior developer, who is just really crazy fast at typing. They are very intelligent, but their prone to mistakes.
+I like to think of the AI as a junior developer, who is just really crazy fast at typing. They are very intelligent, but they're prone to mistakes.
 
-Get rid of the ego:
+## Get rid of the ego:
 
 If you just installed Claude Code, and have never touched a line of code in your life. You are NOT a developer -- yet. That is perfectly OK. We all start somewhere, and that does not mean you have to "wait" to become a developer. AI is one of the most powerful advancements in development we've seen to date. It personally has made me 10x more productive (and other senior developers alike).
 
@@ -72,7 +72,7 @@ The point is not to assume the AI knows everything. Don't assume you do either. 
 
 You can trust, but verify.
 
-Understand that with time, you'll understand more. And you'll be a hell of a lot better at watching the AI do it's thing.
+## Understand that with time, you'll understand more. And you'll be a hell of a lot better at watching the AI do it's thing.
 
 Half the time when I'm vibe coding, I have my hand on the Shift-Tab and Esc button like my life depends on it. It doesn't take me long before I stop, say "Try this approach instead" and the AI continues on it's merry way like they didn't just try to destroy the app I built.
 
