@@ -1,4 +1,5 @@
-A senior developers thoughts on Vibe Coding
+# A senior developers thoughts on Vibe Coding
+
 I have been using Claude Code within my personal projects and at my day job for roughly a year. At first, I was skeptical. I have been coding since the ripe age of 12 (learning out of textbooks on my family road trips down to Florida), made my first dime at 14, took on projects at 16, and have had a development position since 18. I have more than 14 years of experience in development, and countless hours writing, reviewing, and maintaining large codebases. When I first used Claude Code, my first impression was, “this is game-changing.”
 
 But I have been vocally concerned about “vibe coding.” Heck, I do it myself. I come up with prompts and watch as the AI magically pieces together bug fixes and feature requests. But the point is — I watch. I review.
@@ -49,7 +50,7 @@ The problem is - vibe coding, without review, removes this. It removes the teach
 
 My recommendations for any junior developer, or someone seeking to go into development would be the follows.
 
-Learn off the vibe code. Don't just read it, understand it.
+## Learn off the vibe code. Don't just read it, understand it.
 
 The code AI writes, 95% of the time, is impressive. Learn from it. Try to understand the algorithmic logic behind. Try to understand what it's trying to accomplish, how it could be done differently (if you wanted to). Try to think "Why did Claude write it, the way it did".
 
